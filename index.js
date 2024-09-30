@@ -1,5 +1,6 @@
 // import the packages
 const express = require("express");
+const db  = require("./database");
 
 
 // initialize server
